@@ -1,0 +1,128 @@
+[
+  {
+    "name": "gold",
+    "color": "ffff00",
+    "result": "minecraft:gold_ingot:-1",
+    "dust": "thermalfoundation:material:1"
+  },
+  {
+    "name": "iron",
+    "color": "bf8040",
+    "result": "minecraft:iron_ingot:-1",
+    "dust": "thermalfoundation:material:0"
+  },
+  {
+    "name": "aluminium",
+    "color": "bfbfbf",
+    "result": "thermalfoundation:material:132",
+    "dust": "thermalfoundation:material:68"
+  },
+  {
+    "name": "copper",
+    "color": "ff9933",
+    "result": "thermalfoundation:material:128",
+    "dust": "thermalfoundation:material:64"
+  },
+  {
+    "name": "lead",
+    "color": "330066",
+    "result": "thermalfoundation:material:131",
+    "dust": "thermalfoundation:material:67"
+  },
+  {
+    "name": "nickel",
+    "color": "ffffcc",
+    "result": "thermalfoundation:material:133",
+    "dust": "thermalfoundation:material:69"
+  },
+  {
+    "name": "silver",
+    "color": "f2f2f2",
+    "result": "thermalfoundation:material:130",
+    "dust": "thermalfoundation:material:66"
+  },
+  {
+    "name": "tin",
+    "color": "e6fff2",
+    "result": "thermalfoundation:material:129",
+    "dust": "thermalfoundation:material:65"
+  },
+  {
+    "name": "tungsten",
+    "color": "1c1c1c",
+    "result": "techreborn:ingot:15",
+    "dust": "techreborn:dust:55"    
+  },
+  {
+    "name": "uranium",
+    "color": "4e5b43",
+    "result": "ic2:ingot:8",
+    "dust": "immersiveengineering:metal:14"
+  },
+  {
+    "name": "ardite",
+    "color": "ff751a",
+    "result": "tconstruct:ingots:1",
+    "dust": "exnihilocreatio:item_ore_ardite:2"
+  },
+  {
+    "name": "cobalt",
+    "color": "3333ff",
+    "result": "tconstruct:ingots:0",
+    "dust": "exnihilocreatio:item_ore_cobalt:2"
+  },
+  {
+    "name": "osmium",
+    "color": "bbddff",
+    "result": "mekanism:ingot:1",
+    "dust": "mekanism:dust:2"
+  },
+  {
+    "name": "platinum",
+    "color": "d7dfe7",
+    "result": "thermalfoundation:material:134",
+    "dust": "thermalfoundation:material:70"
+  },
+  {
+    "name": "titanium",
+    "color": "F3F3F5",
+    "result": "techreborn:ingot:14",
+    "dust": "techreborn:dust:54"
+  },
+  {
+    "name": "boron",
+    "color": "6B6B6B",
+    "result": "nuclearcraft:ingot:5",
+    "dust": "nuclearcraft:dust:5"
+  },
+  {
+    "name": "lithium",
+    "color": "727272",
+    "result": "nuclearcraft:ingot:6",
+    "dust": "ic2:dust:11"
+  },
+  {
+    "name": "magnesium",
+    "color": "B5A7B5",
+    "result": "nuclearcraft:ingot:7",
+    "dust": "techreborn:dust:30"
+  },
+  {
+    "name": "mithril",
+    "color": "6783A2",
+    "result": "thermalfoundation:material:136",
+    "dust": "thermalfoundation:material:72"
+  },
+  {
+    "name": "thorium",
+    "color": "242424",
+    "result": "nuclearcraft:ingot:3",
+    "dust": "nuclearcraft:dust:3"
+  },
+  {
+    "name": "yellorium",
+    "color": "9FA751",
+    "result": "bigreactors:ingotyellorium",
+    "dust": "bigreactors:dustyellorium"
+  }  
+]

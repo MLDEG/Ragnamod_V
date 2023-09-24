@@ -1,0 +1,8 @@
+{
+  "path": "mod_harvestcraft/mutations/arrowroot_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "harvestcraft:arrowroot_plant",
+  "parent1": "harvestcraft:turnip_plant",
+  "parent2": "harvestcraft:parsnip_plant"
+}

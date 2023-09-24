@@ -1,0 +1,15 @@
+{
+  "minecraft:torch": 1,
+  "minecraft:glowstone": 2,
+  "minecraft:lava": 3,
+  "minecraft:fire": 4,
+  "tconstruct:firewood:1": 8,
+  "natura:nether_heat_sand:0": 6,
+  "botania:blazeblock":5,
+  "actuallyadditions:block_heat_collector": 10,
+  "twilightforest:block_storage:1": 12,
+  "thermalfoundation:fluid_pyrotheum": 15,
+  "mekanism:basicblock2:5": 20,
+  "mysticalagradditions:special:4": 200,
+  "avaritia:block_resource:1": 1000
+  }

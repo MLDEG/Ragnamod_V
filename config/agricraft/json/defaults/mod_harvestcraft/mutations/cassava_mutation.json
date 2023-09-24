@@ -1,0 +1,8 @@
+{
+  "path": "mod_harvestcraft/mutations/cassava_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "harvestcraft:cassava_plant",
+  "parent1": "harvestcraft:arrowroot_plant",
+  "parent2": "harvestcraft:rutabaga_plant"
+}

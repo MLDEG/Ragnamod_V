@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+<recipe name="Spawner, defaults" required="true">
+    <spawning>
+      <entity name="minecraft:elder_guardian"      costMultiplier="10"  disabled="false" soulvial="false"/> <!-- Elder Guardian -->
+      <entity name="minecraft:evocation_illager"   costMultiplier="25"  disabled="false"/> <!-- Evoker -->
+      <entity name="minecraft:villager"            costMultiplier="1.0" disabled="false"/> <!-- Villager -->
+    </spawning>
+  </recipe>
+</enderio:recipes>

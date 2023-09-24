@@ -1,0 +1,8 @@
+{
+  "path": "mod_harvestcraft/mutations/gigapickle_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "harvestcraft:gigapickle_plant",
+  "parent1": "harvestcraft:cucumber_plant",
+  "parent2": "harvestcraft:zucchini_plant"
+}

@@ -1,0 +1,180 @@
+[
+    {
+        "mode": "ADD",
+        "result": "solarflux:solar_panel_wyvern,2",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 64000000,
+        "tier": 1,
+        "ingredients": [
+            "solarflux:solar_panel_void_metal",
+            "draconicevolution:draconic_core",
+            "solarflux:solar_panel_void_metal",
+            "draconicevolution:draconic_core",
+            "solarflux:solar_panel_void_metal",
+            "draconicevolution:draconic_core",
+            "solarflux:solar_panel_void_metal",
+            "draconicevolution:draconic_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "solarflux:solar_panel_draconic,2",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 128000000,
+        "tier": 2,
+        "ingredients": [
+            "solarflux:solar_panel_wyvern",
+            "draconicevolution:wyvern_core",
+            "solarflux:solar_panel_wyvern",
+            "draconicevolution:wyvern_core",
+            "solarflux:solar_panel_wyvern",
+            "draconicevolution:wyvern_core",
+            "solarflux:solar_panel_wyvern",
+            "draconicevolution:wyvern_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "solarflux:solar_panel_chaotic",
+        "catalyst": "draconicevolution:chaotic_core"
+    },
+    {
+        "mode": "ADD",
+        "result": "solarflux:solar_panel_chaotic,2",
+        "catalyst": "draconicevolution:chaotic_core",
+        "energy": 256000000,
+        "tier": 3,
+        "ingredients": [
+            "solarflux:solar_panel_draconic",
+            "draconicevolution:awakened_core",
+            "solarflux:solar_panel_draconic",
+            "draconicevolution:awakened_core",
+            "solarflux:solar_panel_draconic",
+            "draconicevolution:awakened_core",
+            "solarflux:solar_panel_draconic",
+            "draconicevolution:awakened_core"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_staff_of_power",
+        "catalyst": "draconicevolution:draconic_pick"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_bow",
+        "catalyst": "draconicevolution:wyvern_bow"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots",
+        "energy": 200000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "tp:dragon_boots",
+            "bloodmagic:living_armour_boots",
+            "abyssalcraft:dreadiumsamuraiboots",
+            "erebus:rhino_exoskeleton_boots",
+            "botania:elementiumboots",
+            "thaumcraft:thaumium_boots",
+            "enderio:item_stellar_alloy_boots",
+            "thebetweenlands:valonite_boots",
+            "mysticalagriculture:supremium_boots",
+            "twilightforest:yeti_boots"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs",
+        "energy": 400000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "tp:dragon_leggings",
+            "bloodmagic:living_armour_leggings",
+            "abyssalcraft:dreadiumsamurailegs",
+            "erebus:rhino_exoskeleton_leggings",
+            "botania:elementiumlegs",
+            "thaumcraft:fortress_legs",
+            "enderio:item_stellar_alloy_leggings",
+            "thebetweenlands:valonite_leggings",
+            "mysticalagriculture:supremium_leggings",
+            "twilightforest:yeti_leggings"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest",
+        "energy": 800000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "tp:dragon_chestplate",
+            "bloodmagic:living_armour_chest",
+            "abyssalcraft:dreadiumsamuraiplate",
+            "erebus:rhino_exoskeleton_chestplate",
+            "botania:elementiumchest",
+            "thaumcraft:fortress_chest",
+            "enderio:item_stellar_alloy_chestplate",
+            "thebetweenlands:valonite_chestplate",
+            "mysticalagriculture:supremium_chestplate",
+            "twilightforest:yeti_chestplate"
+        ]
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm",
+        "energy": 200000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core",
+            "draconicevolution:draconic_energy_core",
+            "tp:dragon_helmet",
+            "bloodmagic:living_armour_helmet",
+            "abyssalcraft:dreadiumsamuraihelmet",
+            "erebus:rhino_exoskeleton_helmet",
+            "botania:elementiumhelm",
+            "thaumcraft:fortress_helm",
+            "enderio:item_stellar_alloy_helmet",
+            "thebetweenlands:valonite_helmet",
+            "mysticalagriculture:supremium_helmet",
+            "twilightforest:yeti_helmet"
+        ]
+    }
+]

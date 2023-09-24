@@ -1,0 +1,604 @@
+{
+  "entries": [
+    {
+      "item": "appliedenergistics2:material|47",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:resource|2",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:resource|3",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:resource|4",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:block_resource|0",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_material|20",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:furnace|0",
+      "emc": 8
+    },
+    {
+      "item": "projecte:item.pe_philosophers_stone|0",
+      "emc": 50000
+    },
+    {
+      "item": "twilightforest:twilight_sapling|0",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_sapling|1",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_sapling|2",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_sapling|3",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_sapling|4",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_sapling|5",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_sapling|6",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_sapling|7",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_sapling|8",
+      "emc": 0
+    },
+    {
+      "item": "twilightforest:twilight_sapling|9",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:iron_nugget|0",
+      "emc": 0
+    },
+    {
+      "item": "techreborn:storage|8",
+      "emc": 5184
+    },
+    {
+      "item": "thermalfoundation:storage_alloy|0",
+      "emc": 3168
+    },
+    {
+      "item": "thermalfoundation:material|160",
+      "emc": 352
+    },
+    {
+      "item": "thermalfoundation:storage_alloy|4",
+      "emc": 10368
+    },
+    {
+      "item": "thermalfoundation:material|164",
+      "emc": 1152
+    },
+    {
+      "item": "thermalfoundation:storage|8",
+      "emc": 15552
+    },
+    {
+      "item": "sgextraparts:ingot|21",
+      "emc": 1728
+    },
+    {
+      "item": "thermalfoundation:material|136",
+      "emc": 1728
+    },
+    {
+      "item": "techreborn:storage|10",
+      "emc": 5184
+    },
+    {
+      "item": "techreborn:storage|2",
+      "emc": 10368
+    },
+    {
+      "item": "sgextraparts:ingot|9",
+      "emc": 1152
+    },
+    {
+      "item": "techreborn:ingot|14",
+      "emc": 1152
+    },
+    {
+      "item": "libvulpes:productingot|7",
+      "emc": 1152
+    },
+    {
+      "item": "techreborn:storage|3",
+      "emc": 10368
+    },
+    {
+      "item": "thermalfoundation:storage|7",
+      "emc": 147456
+    },
+    {
+      "item": "thermalfoundation:material|135",
+      "emc": 16384
+    },
+    {
+      "item": "tconstruct:metal|0",
+      "emc": 9216
+    },
+    {
+      "item": "abyssalcraft:ingotblock|0",
+      "emc": 10368
+    },
+    {
+      "item": "abyssalcraft:ingotblock|1",
+      "emc": 10368
+    },
+    {
+      "item": "silentgems:gemblock|12",
+      "emc": 4536
+    },
+    {
+      "item": "silentgems:gemblock|11",
+      "emc": 4536
+    },
+    {
+      "item": "thebetweenlands:aqua_middle_gem_block|0",
+      "emc": 9216
+    },
+    {
+      "item": "nuclearcraft:ingot_block|5",
+      "emc": 5184
+    },
+    {
+      "item": "jaopca:block_blockbauxite|0",
+      "emc": 4536
+    },
+    {
+      "item": "techreborn:dust|5",
+      "emc": 504
+    },
+    {
+      "item": "redstonearsenal:storage|0",
+      "emc": 75456
+    },
+    {
+      "item": "bigreactors:blockyellorium|0",
+      "emc": 36864
+    },
+    {
+      "item": "thebetweenlands:valonite_block|0",
+      "emc": 73728
+    },
+    {
+      "item": "silentgems:gemblockdark|7",
+      "emc": 9072
+    },
+    {
+      "item": "silentgems:gemblock|2",
+      "emc": 4536
+    },
+    {
+      "item": "nuclearcraft:ingot_block|3",
+      "emc": 5184
+    },
+    {
+      "item": "thebetweenlands:syrmorite_block|0",
+      "emc": 73728
+    },
+    {
+      "item": "thebetweenlands:sulfur_block|0",
+      "emc": 288
+    },
+    {
+      "item": "jaopca:block_blocksphalerite|0",
+      "emc": 4536
+    },
+    {
+      "item": "techreborn:dust|50",
+      "emc": 504
+    },
+    {
+      "item": "jaopca:block_blockpyrite|0",
+      "emc": 4536
+    },
+    {
+      "item": "techreborn:dust|39",
+      "emc": 504
+    },
+    {
+      "item": "thebetweenlands:octine_block|0",
+      "emc": 73728
+    },
+    {
+      "item": "nuclearcraft:ingot_block|7",
+      "emc": 5184
+    },
+    {
+      "item": "nuclearcraft:ingot_block|6",
+      "emc": 5184
+    },
+    {
+      "item": "erebus:jade_block|0",
+      "emc": 4536
+    },
+    {
+      "item": "thebetweenlands:green_middle_gem_block|0",
+      "emc": 9216
+    },
+    {
+      "item": "jaopca:block_blockgalena|0",
+      "emc": 4536
+    },
+    {
+      "item": "techreborn:dust|23",
+      "emc": 504
+    },
+    {
+      "item": "jaopca:block_blockenderbiotite|0",
+      "emc": 4536
+    },
+    {
+      "item": "quark:biotite|0",
+      "emc": 504
+    },
+    {
+      "item": "jaopca:block_blockdimensionalshard|0",
+      "emc": 9072
+    },
+    {
+      "item": "jaopca:block_blockdilithium|0",
+      "emc": 4536
+    },
+    {
+      "item": "libvulpes:productdust|0",
+      "emc": 504
+    },
+    {
+      "item": "jaopca:block_blockcinnabar|0",
+      "emc": 4536
+    },
+    {
+      "item": "techreborn:dust|11",
+      "emc": 504
+    },
+    {
+      "item": "thebetweenlands:crimson_middle_gem_block|0",
+      "emc": 9216
+    },
+    {
+      "item": "projecte:transmutation_table|0",
+      "emc": 1044978936064
+    },
+    {
+      "item": "projecte:item.pe_transmutation_tablet|0",
+      "emc": 1044981164292
+    },
+    {
+      "item": "projectex:arcane_tablet|0",
+      "emc": 1044981164292
+    },
+    {
+      "item": "harvestcraft:turkeyrawitem|0",
+      "emc": 64
+    },
+    {
+      "item": "harvestcraft:duckrawitem|0",
+      "emc": 64
+    },
+    {
+      "item": "harvestcraft:snailrawitem|0",
+      "emc": 64
+    },
+    {
+      "item": "harvestcraft:blueberryitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:blackberryitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:raspberryitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:elderberryitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:coffeebeanitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:candleberryitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:strawberryitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:cactusfruititem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:amaranthitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:rambutanitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:avocadoitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:jicamaitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:huckleberryitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:spinachitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:radishitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:mulberryitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:lycheeitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:guavaitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:gigapickleitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:zucchiniitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:cucumberitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:agaveitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:breadfruititem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:hazelnutitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:kenafitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:pineappleitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:tomatoitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:cabbageitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:tealeafitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:peanutitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:parsnipitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:wintersquashitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:passionfruititem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:kohlrabiitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:kiwiitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:grapeitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:eggplantitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:okraitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:sweetpotatoitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:rutabagaitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:gingeritem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:taroitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:maplesyrupitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:asparagusitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:caulifloweritem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:sisalitem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:seaweeditem|0",
+      "emc": 6
+    },
+    {
+      "item": "harvestcraft:chilipepperitem|0",
+      "emc": 6
+    },
+    {
+      "item": "solarflux:solar_panel_alchemical|0",
+      "emc": 1949416
+    },
+    {
+      "item": "solarflux:solar_panel_alchemical_brass|0",
+      "emc": 2650495
+    },
+    {
+      "item": "solarflux:solar_panel_thaumium|0",
+      "emc": 3359850
+    },
+    {
+      "item": "solarflux:solar_panel_void_metal|0",
+      "emc": 4287234
+    },
+    {
+      "item": "projecte:item.pe_tome|0",
+      "emc": 54043195530676096
+    },
+    {
+      "item": "tp:obsidian_helmet|0",
+      "emc": 320
+    },
+    {
+      "item": "tp:obsidian_chestplate|0",
+      "emc": 512
+    },
+    {
+      "item": "tp:obsidian_leggings|0",
+      "emc": 448
+    },
+    {
+      "item": "tp:obsidian_boots|0",
+      "emc": 256
+    },
+    {
+      "item": "tp:obsidian_sword|0",
+      "emc": 132
+    },
+    {
+      "item": "tp:obsidian_axe|0",
+      "emc": 200
+    },
+    {
+      "item": "tp:obsidian_spade|0",
+      "emc": 72
+    },
+    {
+      "item": "tp:obsidian_pickaxe|0",
+      "emc": 200
+    },
+    {
+      "item": "tp:obsidian_hoe|0",
+      "emc": 136
+    },
+    {
+      "item": "tp:emerald_helmet|0",
+      "emc": 737280
+    },
+    {
+      "item": "tp:emerald_chestplate|0",
+      "emc": 1179648
+    },
+    {
+      "item": "tp:emerald_leggings|0",
+      "emc": 1032192
+    },
+    {
+      "item": "tp:emerald_boots|0",
+      "emc": 589824
+    },
+    {
+      "item": "tp:emerald_sword|0",
+      "emc": 294916
+    },
+    {
+      "item": "tp:emerald_axe|0",
+      "emc": 442376
+    },
+    {
+      "item": "tp:emerald_spade|0",
+      "emc": 147464
+    },
+    {
+      "item": "tp:emerald_pickaxe|0",
+      "emc": 442376
+    },
+    {
+      "item": "tp:emerald_hoe|0",
+      "emc": 294920
+    },
+    {
+      "item": "tp:emerald_spear|0",
+      "emc": 147464
+    },
+    {
+      "item": "tp:emerald_battle|0",
+      "emc": 589836
+    }
+  ]
+}

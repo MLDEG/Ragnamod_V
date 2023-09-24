@@ -1,0 +1,8 @@
+{
+  "path": "mod_harvestcraft/mutations/quinoa_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "harvestcraft:quinoa_plant",
+  "parent1": "harvestcraft:lentil_plant",
+  "parent2": "harvestcraft:oats_plant"
+}

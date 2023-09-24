@@ -1,0 +1,233 @@
+{
+    "images":
+    {
+        "V":
+        {
+            "image" : "custommmenu:textures/gui/V.png",
+            "posX" : -66,
+            "posY" : 0,
+            "width" : 132,
+            "height" : 113,
+            "alignment" : "top_center"
+        },
+        "ragnalogo":
+        {
+            "image" : "custommmenu:textures/gui/ragnalogo.png",
+            "posX" : -130,
+            "posY" : 25,
+            "width" : 400,
+            "height" : 75,
+            "alignment" : "top_center"
+        }
+    },
+
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "normalTextColor": 14935011,
+            "hoverTextColor": 14825271,
+            "texture": "custommmenu:textures/gui/button1.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "normalTextColor": 14935011,
+            "hoverTextColor": 14825271,
+            "texture": "custommmenu:textures/gui/button1.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 98,
+            "height" : 20,
+            "normalTextColor": 14935011,
+            "hoverTextColor": 14825271,
+            "texture": "custommmenu:textures/gui/button2.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+
+        "serveurfile":
+        {
+            "text" : "Server File",
+            "posX" : 2,
+            "posY" : 96,
+            "width" : 98,
+            "height" : 20,
+            "normalTextColor": 14935011,
+            "hoverTextColor": 14825271,
+            "texture": "custommmenu:textures/gui/button2.png",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://minecraft.curseforge.com/projects/ragnamod-v/files"
+            }
+        },
+
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "normalTextColor": 14935011,
+            "hoverTextColor": 14825271,
+            "texture": "custommmenu:textures/gui/button2.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 2,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "normalTextColor": 14935011,
+            "hoverTextColor": 14825271,
+            "texture": "custommmenu:textures/gui/button2.png",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+
+        "language":
+        {
+            "text" : "",
+            "posX" : 104,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommmenu:textures/gui/buttonsW.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -124,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommmenu:textures/gui/buttonsR.png",
+            "action" :
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+
+    "labels":
+    {
+        "modpack":
+        {
+            "text" : "Ragnamod V 5.8.0 powered by Alkasym & MrMLDEG",
+            "posX" : 2,
+            "posY" : -50,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "hoverText" : "�nCopyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+
+    "other":
+    {
+
+        "background" :
+        {
+            "image" : "",
+            "slideshow" :
+            {
+                "images" :
+                [
+                "custommmenu:textures/menu/00.jpg",
+                "custommmenu:textures/menu/01.jpg",
+                "custommmenu:textures/menu/02.jpg",
+                "custommmenu:textures/menu/03.jpg",
+                "custommmenu:textures/menu/04.jpg",
+                "custommmenu:textures/menu/05.jpg",
+                "custommmenu:textures/menu/06.jpg",
+                "custommmenu:textures/menu/07.jpg",
+                "custommmenu:textures/menu/08.jpg",
+                "custommmenu:textures/menu/09.jpg",
+                "custommmenu:textures/menu/10.jpg",
+                "custommmenu:textures/menu/11.jpg",
+                "custommmenu:textures/menu/12.jpg",
+                "custommmenu:textures/menu/13.jpg",
+                "custommmenu:textures/menu/14.jpg",
+                "custommmenu:textures/menu/15.jpg",
+                "custommmenu:textures/menu/16.jpg",
+                "custommmenu:textures/menu/17.jpg",
+                "custommmenu:textures/menu/18.jpg",
+                "custommmenu:textures/menu/19.jpg",
+                "custommmenu:textures/menu/20.jpg",
+                "custommmenu:textures/menu/21.jpg",
+                "custommmenu:textures/menu/22.jpg"
+                ],
+                "displayDuration" : 1,
+                "fadeDuration" : 0
+            }
+        }
+
+    }
+}
