@@ -72,9 +72,9 @@ recipes.addShaped("Temple Disc", <thebetweenlands:ancient>, [
 
 //Beneath A Green Sky
 recipes.addShaped("Beneath A Green Sky", <thebetweenlands:beneath_a_green_sky>, [
-	[<jaopca:item_essencegreenmiddlegem>, <jaopca:item_essencegreenmiddlegem>, <jaopca:item_essencegreenmiddlegem>],
-	[<jaopca:item_essencegreenmiddlegem>, <avaritia:resource:7>, <jaopca:item_essencegreenmiddlegem>],
-	[<jaopca:item_essencegreenmiddlegem>, <jaopca:item_essencegreenmiddlegem>, <jaopca:item_essencegreenmiddlegem>]
+	[<jaopca:mysticalagriculture_essence.green_middle_gem>, <jaopca:mysticalagriculture_essence.green_middle_gem>, <jaopca:mysticalagriculture_essence.green_middle_gem>],
+	[<jaopca:mysticalagriculture_essence.green_middle_gem>, <avaritia:resource:7>, <jaopca:mysticalagriculture_essence.green_middle_gem>],
+	[<jaopca:mysticalagriculture_essence.green_middle_gem>, <jaopca:mysticalagriculture_essence.green_middle_gem>, <jaopca:mysticalagriculture_essence.green_middle_gem>]
 ]);
 
 //Onwards
@@ -111,12 +111,5 @@ recipes.addShaped("DJ Wight's Hot New Mixtape", <thebetweenlands:dj_wights_mixta
 	[<thebetweenlands:items_misc:25>, <thebetweenlands:wight_heart>, <thebetweenlands:items_misc:25>],
 	[<thebetweenlands:scabyst_block>, <avaritia:resource:7>, <thebetweenlands:scabyst_block>]
 ]);
-
-//Life Crystal
-recipes.addShaped("Life Crystal", <thebetweenlands:life_crystal>,
-	[[<jaopca:item_essencelifecrystal>, <jaopca:item_essencelifecrystal>, <jaopca:item_essencelifecrystal>],
-	[<jaopca:item_essencelifecrystal>, null, <jaopca:item_essencelifecrystal>],
-	[<jaopca:item_essencelifecrystal>, <jaopca:item_essencelifecrystal>, <jaopca:item_essencelifecrystal>]]);
-
 
 print("--- Betweenlands.zs initialized ---");

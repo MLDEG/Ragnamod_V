@@ -1,8 +1,0 @@
-{
-  "path": "mod_harvestcraft/mutations/flax_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "harvestcraft:flax_plant",
-  "parent1": "harvestcraft:rice_plant",
-  "parent2": "harvestcraft:cotton_plant"
-}

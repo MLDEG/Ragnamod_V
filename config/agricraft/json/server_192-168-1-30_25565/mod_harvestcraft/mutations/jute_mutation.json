@@ -1,8 +1,0 @@
-{
-  "path": "mod_harvestcraft/mutations/jute_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "harvestcraft:jute_plant",
-  "parent1": "harvestcraft:sisal_plant",
-  "parent2": "harvestcraft:barley_plant"
-}

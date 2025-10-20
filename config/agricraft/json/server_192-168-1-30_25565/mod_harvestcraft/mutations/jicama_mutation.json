@@ -1,8 +1,0 @@
-{
-  "path": "mod_harvestcraft/mutations/jicama_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "harvestcraft:jicama_plant",
-  "parent1": "harvestcraft:cassava_plant",
-  "parent2": "harvestcraft:sweetpotato_plant"
-}

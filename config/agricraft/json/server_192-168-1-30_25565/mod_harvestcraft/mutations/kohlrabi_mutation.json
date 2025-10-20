@@ -1,8 +1,0 @@
-{
-  "path": "mod_harvestcraft/mutations/kohlrabi_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "harvestcraft:kohlrabi_plant",
-  "parent1": "harvestcraft:jicama_plant",
-  "parent2": "harvestcraft:celery_plant"
-}

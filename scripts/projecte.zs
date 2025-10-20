@@ -137,5 +137,6 @@ mods.jei.JEI.removeAndHide(<projecte:collector_mk3>);
 mods.jei.JEI.removeAndHide(<projecte:relay_mk1>);
 mods.jei.JEI.removeAndHide(<projecte:relay_mk2>);
 mods.jei.JEI.removeAndHide(<projecte:relay_mk3>);
+mods.jei.JEI.removeAndHide(<projecte:item.pe_time_watch>);
 
 print("--- projecte.zs initialized ---");

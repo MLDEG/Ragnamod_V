@@ -1,7 +1,7 @@
 print("--- loading Harvestcraft.zs ---");
 
 //Market
-recipes.remove(<harvestcraft:market>);
+mods.jei.JEI.removeAndHide(<harvestcraft:market>);
 
 //Shipping bin
 recipes.remove(<harvestcraft:shippingbin>);

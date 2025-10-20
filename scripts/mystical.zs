@@ -44,13 +44,6 @@ recipes.addShaped("Neutronium Crux", <mysticalagradditions:special:5>,
 	[<avaritia:resource:4>, <avaritia:neutron_collector>, <avaritia:resource:4>],
 	[<mysticalagradditions:insanium:0>, <avaritia:resource:4>, <mysticalagradditions:insanium:0>]]);
 
-//Bronze Ingot
-recipes.remove(<ic2:ingot:1>);
-recipes.addShaped("Bronze Ingot", <thermalfoundation:material:163> * 4,
-	[[<mysticalagriculture:bronze_essence>, <mysticalagriculture:bronze_essence>, <mysticalagriculture:bronze_essence>],
-	[<mysticalagriculture:bronze_essence>, null, <mysticalagriculture:bronze_essence>],
-	[<mysticalagriculture:bronze_essence>, <mysticalagriculture:bronze_essence>, <mysticalagriculture:bronze_essence>]]);
-
 //Dilithium seeds
 recipes.addShaped("Dilithium Seeds", <mysticalagriculture:dilithium_seeds>,
 	[[<libvulpes:productdust:0>, <mysticalagriculture:crafting:3>, <libvulpes:productdust:0>],
@@ -76,17 +69,5 @@ recipes.addShaped("Saltpeter Dust", <techreborn:dust:44> * 5,
 	[[null, null, null],
 	[<mysticalagriculture:saltpeter_essence>, <mysticalagriculture:saltpeter_essence>, <mysticalagriculture:saltpeter_essence>],
 	[null, null, null]]);
-
-//Niter Seeds
-recipes.removeByRecipeName("jaopca:item_mysticalseedsniter_9byx1l");
-recipes.addShaped("Niter Seeds", <jaopca:item_mysticalseedsniter>,
-	[[<thermalfoundation:material:772>, <mysticalagriculture:crafting:2>, <thermalfoundation:material:772>],
-	[<mysticalagriculture:crafting:2>, <mysticalagriculture:crafting:19>, <mysticalagriculture:crafting:2>],
-	[<thermalfoundation:material:772>, <mysticalagriculture:crafting:2>, <thermalfoundation:material:772>]]);
-
-//Astral Starmetal Seeds JAO
-mods.jei.JEI.removeAndHide(<jaopca:item_mysticalseedsastralstarmetal>);
-mods.jei.JEI.removeAndHide(<jaopca:item_essenceastralstarmetal>);
-recipes.removeByRecipeName("jaopca:itemcraftingcomponent_oqva5v");
 
 print("--- mystical.zs initialized ---");

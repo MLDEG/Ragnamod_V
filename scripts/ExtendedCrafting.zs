@@ -24,13 +24,13 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <extendedcrafting:singularity_u
 
 //The Ultimate Ingot
 mods.extendedcrafting.TableCrafting.addShaped(4, <extendedcrafting:material:32>, [
-	[<ore:ingotDreadium>, <ore:ingotRedAlloy>, <ore:ingotDemonicMetal>, <ore:ingotBloodInfusedIron>, <woot:stygianironingot>, <ore:ingotFiery>, <ore:ingotBrickNetherGlazed>, <ore:ingotArdite>, <ore:ingotSignalum>], 
+	[<ore:ingotDreadium>, <ore:ingotRedAlloy>, <ore:ingotDemonicMetal>, <ore:ingotBloodInfusedIron>, <woot:stygianironingot>, <ore:ingotFiery>, <ore:ingotBrickNetherGlazed>, <tconstruct:ingots:1>, <ore:ingotSignalum>], 
 	[<ore:ingotDraconiumAwakened>, <ore:ingotOctine>, <ore:ingotElectrumFlux>, <ore:ingotBronze>, <ore:ingotConstantan>, <ore:ingotElectrum>, <ore:ingotLumium>, <ore:ingotGold>, <ore:ingotZirconium>], 
 	[<ore:ingotBeryllium>, <ore:ingotMirion>, <ore:ingotEndSteel>, <ore:ingotKnightmetal>, <ore:ingotStellarAlloy>, <ore:ingotVibrantAlloy>, <ore:gaiaIngot>, <ore:ingotEnchantedMetal>, <ore:ingotOsgloglas>], 
-	[<ore:ingotTerrasteel>, <ore:ingotLiquifiedCoralium>, <ore:ingotEnderium>, <ore:ingotThermoconducting>, <ore:ingotCoraliumBrick>, <ore:ingotIronwood>, <ore:ingotHardCarbon>, <ore:ingotAstralStarmetal>, <ore:ingotBlutonium>], 
-	[<ore:ingotSyrmorite>, <extendedcrafting:material:48>, <ore:ingotManasteel>, <ore:ingotCobalt>, <ore:ingotElectrotineAlloy>, <ore:ingotMithril>, <ore:ingotPlatinum>, <ore:ingotCrystallineAlloy>, <ore:ingotCrystaltine>], 
+	[<ore:ingotTerrasteel>, <ore:ingotLiquifiedCoralium>, <thermalfoundation:material:167>, <ore:ingotThermoconducting>, <ore:ingotCoraliumBrick>, <ore:ingotIronwood>, <ore:ingotHardCarbon>, <ore:ingotAstralStarmetal>, <ore:ingotBlutonium>], 
+	[<ore:ingotSyrmorite>, <extendedcrafting:material:48>, <ore:ingotManasteel>, <tconstruct:ingots>, <ore:ingotElectrotineAlloy>, <thermalfoundation:material:136>, <ore:ingotPlatinum>, <ore:ingotCrystallineAlloy>, <ore:ingotCrystaltine>], 
 	[<randomthings:ingredient:3>, <ore:ingotTitaniumAluminide>, <ore:ingotManganese>, <ore:ingotHSLASteel>, <ore:ingotOsmiridium>, <ore:ingotIridium>, <ore:ingotAlumite>, <ore:ingotPigiron>, <industrialforegoing:pink_slime_ingot>], 
-	[<ore:ingotCrystallinePinkSlime>, <ore:ingotMelodicAlloy>, <ore:ingotKnightslime>, <stevescarts:modulecomponents:49>, <ore:ingotLudicrite>, <ore:ingotElvenElementium>, <ore:ingot_dark_soularium>, <ore:ingotManyullyn>, <ore:ingotDraconium>], 
+	[<ore:ingotCrystallinePinkSlime>, <ore:ingotMelodicAlloy>, <ore:ingotKnightslime>, <stevescarts:modulecomponents:49>, <ore:ingotLudicrite>, <ore:ingotElvenElementium>, <ore:ingot_dark_soularium>, <tconstruct:ingots:2>, <ore:ingotDraconium>], 
 	[<ore:ingotThaumium>, <ore:ingotExtreme>, <ore:ingotInsanium>, <ore:ingotAbyssalnite>, <ore:ingotVoid>, <ore:ingotReinforcedObsidian>, <ore:ingotSoularium>, <ore:ingotSoulium>, <ore:ingotTough>], 
 	[<ore:ingotEvilMetal>, <ore:ingotBlackIron>, <ore:ingotDarkSteel>, <ore:ingotSteel>, <ore:ingotElectricalSteel>, <ore:ingotIron>, <ore:ingotInvar>, <ore:ingotTitaniumIridium>, <ore:ingotUnstable>]
 ]);
@@ -71,39 +71,39 @@ mods.extendedcrafting.CompressionCrafting.remove(<extendedcrafting:singularity:6
 mods.extendedcrafting.CompressionCrafting.remove(<extendedcrafting:singularity:65>);
 mods.extendedcrafting.CompressionCrafting.remove(<extendedcrafting:singularity:66>);
 
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:0>, <minecraft:coal_block>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:1>, <minecraft:iron_block>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:2>, <minecraft:lapis_block>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:3>, <minecraft:redstone_block>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:4>, <minecraft:glowstone>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:5>, <minecraft:gold_block>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:6>, <minecraft:diamond_block>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:7>, <minecraft:emerald_block>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:16>, <thermalfoundation:storage:4>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:17>, <thermalfoundation:storage:0>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:18>, <thermalfoundation:storage:1>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:19>, <thermalfoundation:storage_alloy:3>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:20>, <techreborn:storage:8>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:21>, <techreborn:storage:5>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:22>, <thermalfoundation:storage:2>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:23>, <thermalfoundation:storage:3>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:24>, <thermalfoundation:storage_alloy:0>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:25>, <thermalfoundation:storage:5>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:26>, <thermalfoundation:storage_alloy:4>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:27>, <thermalfoundation:storage_alloy:1>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:28>, <thermalfoundation:storage_alloy:2>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:29>, <thermalfoundation:storage:8>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:30>, <techreborn:storage:10>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:31>, <techreborn:storage:2>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:32>, <ic2:resource:10>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:33>, <techreborn:storage:3>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:34>, <thermalfoundation:storage:6>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:35>, <thermalfoundation:storage:7>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:48>, <thermalfoundation:storage_alloy:5>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:49>, <thermalfoundation:storage_alloy:6>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:50>, <thermalfoundation:storage_alloy:7>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:64>, <tconstruct:metal:1>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:65>, <tconstruct:metal:0>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
-mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:66>, <tconstruct:metal:2>, 33000, <extendedcrafting:material:11>, 5000000, 5000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:0>, <minecraft:coal_block>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:1>, <minecraft:iron_block>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:2>, <minecraft:lapis_block>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:3>, <minecraft:redstone_block>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:4>, <minecraft:glowstone>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:5>, <minecraft:gold_block>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:6>, <minecraft:diamond_block>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:7>, <minecraft:emerald_block>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:16>, <thermalfoundation:storage:4>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:17>, <thermalfoundation:storage:0>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:18>, <thermalfoundation:storage:1>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:19>, <thermalfoundation:storage_alloy:3>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:20>, <techreborn:storage:8>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:21>, <techreborn:storage:5>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:22>, <thermalfoundation:storage:2>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:23>, <thermalfoundation:storage:3>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:24>, <thermalfoundation:storage_alloy:0>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:25>, <thermalfoundation:storage:5>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:26>, <thermalfoundation:storage_alloy:4>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:27>, <thermalfoundation:storage_alloy:1>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:28>, <thermalfoundation:storage_alloy:2>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:29>, <thermalfoundation:storage:8>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:30>, <techreborn:storage:10>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:31>, <techreborn:storage:2>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:32>, <immersiveengineering:storage:5>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:33>, <techreborn:storage:3>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:34>, <thermalfoundation:storage:6>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:35>, <thermalfoundation:storage:7>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:48>, <thermalfoundation:storage_alloy:5>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:49>, <thermalfoundation:storage_alloy:6>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:50>, <thermalfoundation:storage_alloy:7>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:64>, <tconstruct:metal:1>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:65>, <tconstruct:metal:0>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
+mods.extendedcrafting.CompressionCrafting.addRecipe(<extendedcrafting:singularity:66>, <tconstruct:metal:2>, 10000, <extendedcrafting:material:13>, 5000000, 250000);
 
 print("--- ExtendedCrafting.zs initialized ---");

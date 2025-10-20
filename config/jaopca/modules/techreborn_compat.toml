@@ -1,0 +1,16 @@
+[general]
+	#The material blacklist of this module. "*" is an alias for all materials, and "*" followed with a material type name is an alias for all materials of that material type. If a material name occurs an odd number of times (including wildcards), then the material is blacklisted. These rules applies to all config material blacklists.
+	materialBlacklist = []
+[recipes]
+	#The materials that should not have grinder block to dust recipes added.
+	blockToDustMaterialBlacklist = []
+	#The materials that should not have grinder plate to dust recipes added.
+	plateToDustMaterialBlacklist = []
+	#The materials that should not have implosion compressor to material recipes added.
+	toCrystalMaterialBlacklist = []
+	#The materials that should not have compressor dust to plate recipes added.
+	dustToPlateMaterialBlacklist = []
+	#The materials that should not have compressor material to plate recipes added.
+	crystalToPlateMaterialBlacklist = []
+	#The materials that should not have grinder material to dust recipes added.
+	materialToDustMaterialBlacklist = []

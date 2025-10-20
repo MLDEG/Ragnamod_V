@@ -1,0 +1,10 @@
+[general]
+	#The material blacklist of this module. "*" is an alias for all materials, and "*" followed with a material type name is an alias for all materials of that material type. If a material name occurs an odd number of times (including wildcards), then the material is blacklisted. These rules applies to all config material blacklists.
+	materialBlacklist = []
+[recipes]
+	#The materials that should not have insolator Rich Phyto-Gro recipes added.
+	richMaterialBlacklist = []
+	#The materials that should not have insolator Phyto-Gro recipes added.
+	basicMaterialBlacklist = []
+	#The materials that should not have insolator Fluxed Phyto-Gro recipes added.
+	fluxMaterialBlacklist = []

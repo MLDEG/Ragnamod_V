@@ -182,7 +182,7 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:infinity_pants>,
   [neutroniumIngot, infinityIngot, neutroniumIngot, null, null, null, neutroniumIngot, infinityIngot, neutroniumIngot],
   [neutroniumIngot, infinityIngot, neutroniumIngot, null, null, null, neutroniumIngot, infinityIngot, neutroniumIngot],
   [neutroniumIngot, infinityIngot, neutroniumIngot, null, null, null, neutroniumIngot, infinityIngot, neutroniumIngot],
-  [neutroniumIngot, neutroniumIngot, null, null, null, null, neutroniumIngot, neutroniumIngot, neutroniumIngot]]);
+  [neutroniumIngot, neutroniumIngot, neutroniumIngot, null, null, null, neutroniumIngot, neutroniumIngot, neutroniumIngot]]);
 
 //Infinity Boots
 mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_boots>);
@@ -305,6 +305,9 @@ mods.jei.JEI.removeAndHide(<avaritia:singularity:11>);
 mods.jei.JEI.removeAndHide(<avaritia:singularity:12>);
 mods.jei.JEI.removeAndHide(<avaritia:singularity:13>);
 mods.jei.JEI.removeAndHide(<avaritia:singularity:14>);
+mods.jei.JEI.removeAndHide(<avaritia:neutronium_compressor>);
+mods.jei.JEI.removeAndHide(<avaritiaddons:infinity_compressor>);
+recipes.removeByRecipeName("avaritiaddons:infinity_compressor");
 
 //Neutronium Ingot
 //mods.thermalexpansion.Transposer.addFillRecipe(1500000, <minecraft:iron_ingot>, <ore:ingotCosmicNeutronium>, <liquid:neutron> * 250);

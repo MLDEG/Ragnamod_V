@@ -4,6 +4,7 @@
 /betweenlands_gallery/
 /config/jei/bookmarks.ini
 /crash-reports/
+/datapacks/
 /discordsuite/
 /downloads/
 /fonts/
@@ -24,8 +25,9 @@
 BotaniaVars.dat
 crafttweaker.log
 minecraftinstance.json
-OpenComputersMod-1.7.7+5413028-lua52-native.64.dll
-OpenComputersMod-1.7.7+5413028-lua53-native.64.dll
+OpenComputersMod-1.8.9a-52-libjnlua52-windows-x86_64.dll
+OpenComputersMod-1.8.9a-53-libjnlua53-windows-x86_64.dll
+OpenComputersMod-1.8.9a-54-libjnlua54-windows-x86_64.dll
 options.txt
 patchouli_data.json
 servers.dat
