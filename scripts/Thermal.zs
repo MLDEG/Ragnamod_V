@@ -7,4 +7,6 @@ recipes.addShaped("Mana dust", <thermalfoundation:material:1028>, [
 	[null, <ore:dustPetrotheum>, null]
 ]);
 
+mods.thermalexpansion.Compactor.addMintRecipe(<contenttweaker:coin_ragnamod>, <extrautils2:decorativesolid:8>, 10000);
+
 print("--- Thermal.zs initialized ---");

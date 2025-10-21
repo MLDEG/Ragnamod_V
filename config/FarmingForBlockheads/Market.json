@@ -21,21 +21,21 @@
   "defaults payment": {
     "__comment": "You can define custom payment items for the default entries here.",
     "BiomesOPlenty Saplings": "1*minecraft:emerald:0",
-    "Forestry Saplings": "2*minecraft:emerald:0",
-    "AgriCraft Seeds": "2*minecraft:emerald:0",
-    "Animal Eggs": "1*minecraft:emerald:0",
+    "Forestry Saplings": "2*contenttweaker:coin_ragnamod:0",
+    "AgriCraft Seeds": "2*contenttweaker:coin_ragnamod:0",
+    "Animal Eggs": "1*contenttweaker:coin_ragnamod:0",
     "Natura Seeds": "1*minecraft:emerald:0",
     "Vanilla Seeds": "1*minecraft:emerald:0",
     "Natura Saplings": "1*minecraft:emerald:0",
     "Vanilla Flowers": "1*minecraft:emerald:0",
-    "Pams Harvestcraft Saplings": "1*minecraft:emerald:0",
-    "Natura Bushes": "2*minecraft:emerald:0",
-    "Vanilla Mushrooms": "1*minecraft:emerald:0",
+    "Pams Harvestcraft Saplings": "1*contenttweaker:coin_ragnamod:0",
+    "Natura Bushes": "2*contenttweaker:coin_ragnamod:0",
+    "Vanilla Mushrooms": "1*contenttweaker:coin_ragnamod:0",
     "Natura Nether Bushes": "3*minecraft:emerald:0",
-    "BiomesOPlenty Sacred Oak Sapling": "1*minecraft:emerald:8",
+    "BiomesOPlenty Sacred Oak Sapling": "1*contenttweaker:coin_ragnamod:8",
     "Vanilla Saplings": "1*minecraft:emerald:0",
     "Bonemeal": "1*minecraft:emerald:0",
-    "Pams Harvestcraft Seeds": "1*minecraft:emerald:0"
+    "Pams Harvestcraft Seeds": "1*contenttweaker:coin_ragnamod:0"
   },
   "defaults amount": {
     "__comment": "You can define custom amounts for the default entries here.",
@@ -61,6 +61,6 @@
   ],
   "custom entries": {
     "__comment": "You can define additional items to be sold by the Market here. Defaults can be overridden. Prefix with ! to blacklist instead.",
-    "examplemod:example_item": "2*minecraft:emerald"
+    "examplemod:example_item": "2*contenttweaker:coin_ragnamod"
   }
 }
