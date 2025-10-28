@@ -230,4 +230,12 @@ mods.exnihilocreatio.Sieve.addDiamondMeshRecipe(<thebetweenlands:silt>, <jaopca:
 mods.exnihilocreatio.Sieve.addDiamondMeshRecipe(<abyssalcraft:abyssalsand>, <jaopca:exnihilocreatio_piece.liquified_coralium>, 0.1);
 mods.exnihilocreatio.Sieve.addDiamondMeshRecipe(<abyssalcraft:abyssalsand>, <jaopca:exnihilocreatio_piece.abyssalnite>, 0.15);
 
+//Remove
+mods.jei.JEI.removeAndHide(<jaopca:exnihilocreatio_piece.mithril>);
+mods.jei.JEI.removeAndHide(<jaopca:exnihilocreatio_piece.iridium>);
+mods.jei.JEI.removeAndHide(<jaopca:exnihilocreatio_piece.astral_starmetal>);
+mods.jei.JEI.removeAndHide(<jaopca:exnihilocreatio_chunk.astral_starmetal>);
+mods.jei.JEI.removeAndHide(<jaopca:exnihilocreatio_chunk.mithril>);
+mods.jei.JEI.removeAndHide(<jaopca:exnihilocreatio_chunk.iridium>);
+
 print("--- exnihilo.zs initialized ---");

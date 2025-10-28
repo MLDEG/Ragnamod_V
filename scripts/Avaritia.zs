@@ -307,7 +307,7 @@ mods.jei.JEI.removeAndHide(<avaritia:singularity:13>);
 mods.jei.JEI.removeAndHide(<avaritia:singularity:14>);
 mods.jei.JEI.removeAndHide(<avaritia:neutronium_compressor>);
 mods.jei.JEI.removeAndHide(<avaritiaddons:infinity_compressor>);
-recipes.removeByRecipeName("avaritiaddons:infinity_compressor");
+recipes.remove(<avaritiaddons:infinity_compressor>);
 
 //Neutronium Ingot
 //mods.thermalexpansion.Transposer.addFillRecipe(1500000, <minecraft:iron_ingot>, <ore:ingotCosmicNeutronium>, <liquid:neutron> * 250);

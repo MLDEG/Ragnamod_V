@@ -30,7 +30,7 @@
     },
     {
       "item": "projecte:item.pe_philosophers_stone|0",
-      "emc": 50000
+      "emc": 10000000
     },
     {
       "item": "twilightforest:twilight_sapling|0",
@@ -599,6 +599,34 @@
     {
       "item": "tp:emerald_battle|0",
       "emc": 589836
+    },
+    {
+      "item": "rftools:dimensional_shard|0",
+      "emc": 25000
+    },
+    {
+      "item": "enderio:item_alloy_ingot|0",
+      "emc": 384
+    },
+    {
+      "item": "enderio:item_alloy_ingot|6",
+      "emc": 416
+    },
+    {
+      "item": "enderio:item_alloy_ingot|8",
+      "emc": 481
+    },
+    {
+      "item": "thaumcraft:amber_block|0",
+      "emc": 2048
+    },
+    {
+      "item": "biomesoplenty:gem|7",
+      "emc": 512
+    },
+    {
+      "item": "silentgems:gem|3",
+      "emc": 512
     }
   ]
 }

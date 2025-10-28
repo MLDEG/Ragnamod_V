@@ -475,11 +475,11 @@
     "is_enabled": true,
     "lay_coefficient": 1.0,
     "lay_item": {
-      "itemID": "minecraft:gold_nugget",
+      "itemID": "minecraft:gold_ingot",
       "metaID": 0
     },
     "drop_item": {
-      "itemID": "minecraft:gold_nugget",
+      "itemID": "minecraft:gold_ingot",
       "metaID": 0
     },
     "spawn_type": "NORMAL",

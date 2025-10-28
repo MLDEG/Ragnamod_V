@@ -37,4 +37,9 @@ recipes.removeByRecipeName("endercore:slabwoodacacia_to_planks");
 recipes.removeByRecipeName("endercore:slabwooddarkoak_to_planks");
 recipes.removeByRecipeName("endercore:slabwoodjungle_to_planks");
 
+//Aluminum ore
+recipes.remove(<sgextraparts:ingot:6>);
+recipes.addShapeless("Aluminum Ingot x2", <thermalfoundation:material:132> * 2, [<exnihilocreatio:item_ore_aluminium:1>, <thermalfoundation:material:1027>, <thermalfoundation:material:1024>]);
+recipes.addShapeless("Aluminum Ingot x1", <thermalfoundation:material:132>, [<exnihilocreatio:item_ore_aluminium:1>, <thermalfoundation:material:1024>]);
+
 print("--- Minecraft.zs initialized ---");	

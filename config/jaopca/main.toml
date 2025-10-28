@@ -41,8 +41,7 @@
 [itemSelection]
 	#List of mods that are preferred when selecting items in recipes.
 	preferredMods = [
-		"minecraft",
-		"jaopca"
+		"minecraft"
 ]
 #Configurations related to the ore dictionary.
 [oredict]
@@ -69,4 +68,4 @@
 	#The update interval of localization files in days.
 	updateInterval = 3.0
 	#Should the mod check for material localization updates.
-	checkL10nUpdates = true
+	checkL10nUpdates = false
