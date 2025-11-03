@@ -42,7 +42,7 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <projecte:condenser_mk1>,
 //Repair Talisman
 recipes.remove(<projecte:item.pe_repair_talisman>);
 recipes.addShaped("Repair Talisman", <projecte:item.pe_repair_talisman>, [
-	[<ore:calculatorCircuit>, <ore:blockCrystaltine>, <ore:calculatorCircuit>],
+	[<techreborn:part:43>, <ore:blockCrystaltine>, <techreborn:part:43>],
 	[<bhc:blue_heart_canister>, <appliedenergistics2:material:47>, <bhc:blue_heart_canister>],
 	[<bhc:green_heart_canister>, <ore:blockOsgloglas>, <bhc:green_heart_canister>]
 ]);
