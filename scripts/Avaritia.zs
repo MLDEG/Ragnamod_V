@@ -47,7 +47,7 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <avaritia:resource:5>, [
 	[null, null, null, null, null, null, null, null, null],
 	[null, null, <avaritiatweaks:gaia_block>, null, null, null, <ore:blockNetherStar>, null, null],
 	[null, null, null, <ore:blockUltimate>, <extendedcrafting:singularity_ultimate>, <ore:blockCrystalMatrix>, null, null, null],
-	[null, null, null, <avaritia:cosmic_meatballs>, <projecte:item.pe_klein_star:5>, <avaritia:endest_pearl>, null, null, null],
+	[null, null, null, <avaritia:cosmic_meatballs>, <contenttweaker:coin_ragnamod>, <avaritia:endest_pearl>, null, null, null],
 	[null, null, null, <ore:blockCosmicNeutronium>, <avaritia:ultimate_stew>, <extendedcrafting:storage:6>, null, null, null],
 	[null, null, <ore:compressed3xDustBedrock>, null, null, null, <extendedcrafting:storage:7>, null, null],
 	[null, null, null, null, null, null, null, null, null],

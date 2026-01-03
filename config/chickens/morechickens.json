@@ -539,12 +539,12 @@
     "is_enabled": true,
     "lay_coefficient": 1.0,
     "lay_item": {
-      "itemID": "draconicevolution:nugget",
-      "metaID": 1
+      "itemID": "draconicevolution:draconic_ingot",
+      "metaID": 0
     },
     "drop_item": {
-      "itemID": "draconicevolution:nugget",
-      "metaID": 1
+      "itemID": "draconicevolution:draconic_ingot",
+      "metaID": 0
     },
     "spawn_type": "NONE",
     "parent_1": "morechickens:draconiumchicken",

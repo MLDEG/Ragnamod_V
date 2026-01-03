@@ -24,15 +24,15 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <extendedcrafting:singularity_u
 
 //The Ultimate Ingot
 mods.extendedcrafting.TableCrafting.addShaped(4, <extendedcrafting:material:32>, [
-	[<ore:ingotDreadium>, <ore:ingotRedAlloy>, <ore:ingotDemonicMetal>, <ore:ingotBloodInfusedIron>, <woot:stygianironingot>, <ore:ingotFiery>, <ore:ingotBrickNetherGlazed>, <tconstruct:ingots:1>, <ore:ingotSignalum>], 
-	[<ore:ingotDraconiumAwakened>, <ore:ingotOctine>, <ore:ingotElectrumFlux>, <ore:ingotBronze>, <ore:ingotConstantan>, <ore:ingotElectrum>, <ore:ingotLumium>, <ore:ingotGold>, <ore:ingotZirconium>], 
-	[<ore:ingotBeryllium>, <ore:ingotMirion>, <ore:ingotEndSteel>, <ore:ingotKnightmetal>, <ore:ingotStellarAlloy>, <ore:ingotVibrantAlloy>, <ore:gaiaIngot>, <ore:ingotEnchantedMetal>, <ore:ingotOsgloglas>], 
-	[<ore:ingotTerrasteel>, <ore:ingotLiquifiedCoralium>, <thermalfoundation:material:167>, <ore:ingotThermoconducting>, <ore:ingotCoraliumBrick>, <ore:ingotIronwood>, <ore:ingotHardCarbon>, <ore:ingotAstralStarmetal>, <ore:ingotBlutonium>], 
-	[<ore:ingotSyrmorite>, <extendedcrafting:material:48>, <ore:ingotManasteel>, <tconstruct:ingots>, <ore:ingotElectrotineAlloy>, <thermalfoundation:material:136>, <ore:ingotPlatinum>, <ore:ingotCrystallineAlloy>, <ore:ingotCrystaltine>], 
-	[<randomthings:ingredient:3>, <ore:ingotTitaniumAluminide>, <ore:ingotManganese>, <ore:ingotHSLASteel>, <ore:ingotOsmiridium>, <ore:ingotIridium>, <ore:ingotAlumite>, <ore:ingotPigiron>, <industrialforegoing:pink_slime_ingot>], 
-	[<ore:ingotCrystallinePinkSlime>, <ore:ingotMelodicAlloy>, <ore:ingotKnightslime>, <stevescarts:modulecomponents:49>, <ore:ingotLudicrite>, <ore:ingotElvenElementium>, <ore:ingot_dark_soularium>, <tconstruct:ingots:2>, <ore:ingotDraconium>], 
-	[<ore:ingotThaumium>, <ore:ingotExtreme>, <ore:ingotInsanium>, <ore:ingotAbyssalnite>, <ore:ingotVoid>, <ore:ingotReinforcedObsidian>, <ore:ingotSoularium>, <ore:ingotSoulium>, <ore:ingotTough>], 
-	[<ore:ingotEvilMetal>, <ore:ingotBlackIron>, <ore:ingotDarkSteel>, <ore:ingotSteel>, <ore:ingotElectricalSteel>, <ore:ingotIron>, <ore:ingotInvar>, <ore:ingotTitaniumIridium>, <ore:ingotUnstable>]
+	[<ore:ingotAdaminite>, <ore:ingotDreadium>, <ore:ingotRedAlloy>, <ore:ingotDemonicMetal>, <ore:ingotBloodInfusedIron>, <woot:stygianironingot>, <ore:ingotFiery>, <ore:ingotIchorium>, <tconstruct:ingots:1>],
+	[<ore:ingotSignalum>, <ore:ingotDraconiumAwakened>, <ore:ingotOctine>, <ore:ingotElectrumFlux>, <ore:ingotBronze>, <ore:ingotConstantan>, <ore:ingotElectrum>, <ore:ingotLumium>, <ore:ingotZirconium>],
+	[<ore:ingotBeryllium>, <ore:ingotMirion>, <ore:ingotEndSteel>, <ore:ingotKnightmetal>, <ore:ingotStellarAlloy>, <ore:ingotVibrantAlloy>, <ore:gaiaIngot>, <ore:ingotEnchantedMetal>, <ore:ingotOsgloglas>],
+	[<ore:ingotTerrasteel>, <ore:ingotLiquifiedCoralium>, <thermalfoundation:material:167>, <ore:ingotThermoconducting>, <ore:ingotIronwood>, <ore:ingotHardCarbon>, <ore:ingotAstralStarmetal>, <ore:ingotBlutonium>, <ore:ingotSyrmorite>],
+	[<extendedcrafting:material:48>, <ore:ingotManasteel>, <tconstruct:ingots>, <ore:ingotMithrillium>, <ore:ingotElectrotineAlloy>, <thermalfoundation:material:136>, <ore:ingotPlatinum>, <ore:ingotCrystallineAlloy>, <ore:ingotCrystaltine>],
+	[<randomthings:ingredient:3>, <ore:ingotTitaniumAluminide>, <ore:ingotManganese>, <ore:ingotHSLASteel>, <ore:ingotOsmiridium>, <ore:ingotIridium>, <ore:ingotAlumite>, <ore:ingotPigiron>, <industrialforegoing:pink_slime_ingot>],
+	[<ore:ingotCrystallinePinkSlime>, <ore:ingotMelodicAlloy>, <ore:ingotKnightslime>, <stevescarts:modulecomponents:49>, <ore:ingotMithminite>, <ore:ingotLudicrite>, <ore:ingotElvenElementium>, <ore:ingot_dark_soularium>, <tconstruct:ingots:2>],
+	[<ore:ingotDraconium>, <ore:ingotThaumium>, <ore:ingotExtreme>, <ore:ingotInsanium>, <ore:ingotAbyssalnite>, <ore:ingotVoid>, <ore:ingotReinforcedObsidian>, <ore:ingotSoularium>, <ore:ingotSoulium>],
+	[<ore:ingotEvilMetal>, <ore:ingotTough>, <ore:ingotBlackIron>, <ore:ingotDarkSteel>, <ore:ingotSteel>, <ore:ingotElectricalSteel>, <ore:ingotInvar>, <ore:ingotTitaniumIridium>, <ore:ingotUnstable>]
 ]);
 
 //Singularity

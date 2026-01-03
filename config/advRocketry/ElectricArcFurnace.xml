@@ -61,7 +61,7 @@
 			<oreDict>oreRutile</oreDict>
 		</input>
 		<output>
-			<itemStack>libvulpes:productingot 1 7</itemStack>
+			<itemStack>techreborn:ingot 1 14</itemStack>
 		</output>
 	</Recipe>
 </Recipes>
