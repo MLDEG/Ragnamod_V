@@ -307,6 +307,8 @@ mods.jei.JEI.removeAndHide(<avaritia:singularity:13>);
 mods.jei.JEI.removeAndHide(<avaritia:singularity:14>);
 mods.jei.JEI.removeAndHide(<avaritia:neutronium_compressor>);
 mods.jei.JEI.removeAndHide(<avaritiaddons:infinity_compressor>);
+mods.jei.JEI.removeAndHide(<avaritia:extreme_crafting_table>);
+mods.jei.JEI.removeAndHide(<avaritiaddons:extreme_auto_crafter>);
 recipes.remove(<avaritiaddons:infinity_compressor>);
 
 //Neutronium Ingot

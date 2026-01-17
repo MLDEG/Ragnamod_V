@@ -1,0 +1,38 @@
+# Congratulations
+#=======================
+#You have completed all the quests in the modpack, congratulations! Now that you have all the possible and imaginable creative items, I challenge you to play longer by completing a series of tasks.
+#You are of course not obliged, but I know you can do it!
+===
+#To complete a task, simply check the box corresponding to that task.
+#=======================
+Read this message
+#=======================
+#This task book offers no reward, it's just for fun!
+# Thanks for playing the modpack
+===
+Change the biome of a chunk in your base, using Extra Utilities 2, to a Spectral biome.
+Collect 1000 Ragnamod Coins without using creative items.
+Automate a Pure Daisy with only Botania and vanilla mechanics.
+Automate the Dandelifeon to generate Mana.
+Produce steam using Immersive Tech's Solar Tower.
+Craft a Superconductor Upgrade from Tech Reborn without using creative items.
+Automate the collection of all Thaumcraft aspects, without using Vis Crystal.
+Upgrade all chickens to 10/10/10.
+Upgrade all Mystical Agriculture Seeds to 10/10/10.
+Upgrade all Agricraft Seeds to 10/10/10.
+Automate any crafting process using PackagedAuto's Positioned Package Distributor.
+Kill a Wither Boss using only a Laser Gun from Tinkers' Construct.
+Have all the modpack's saplings in Bonsai Pots (hopping or not).
+Collect all the OpenBlocks trophies.
+Fully automate, without creative stuff, the Neutron Fluid from NuclearCraft and collect at least 10 buckets.
+Produce 99.89 MRF/t with a Mekanism Fusion Reactor using D-T Fuel.
+Create an AE2 dimension (using Spatial Pylons) and install a cobblestone farm while connecting it to your network.
+Create a rocket ship of at least 9x21x9 for your space exploration.
+Use the Horologium Ritual to speed up something.
+Get a PERFECT Attuned Celestial Crystal (900 Size, 100% Purity, 100% Cutting).
+Automate the production of the 5 different Will Crystals using only Blood Magic.
+Create a Draconic Evolution portal in every possible dimension (excluding RFTools Dim and Compact Machine) and connect them to your base, so you can access every dimension from your base.
+Collect all the armors in the pack, except those from Construct's Armory, and display them on Armor Stands.
+Fill the Draconic Tier 8 Energy Core, you definitely can do it with Creative stuff.
+Share a screenshot of your completed base on Discord, either on the Ragnamod Community or on MLDEG's Discord.
+===

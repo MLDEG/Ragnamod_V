@@ -48,6 +48,13 @@ recipes.addShapeless("void_chicken_clear", <roost:chicken>.withTag({Chicken: "co
 recipes.addShapeless("mithrillium_chicken_clear", <roost:chicken>.withTag({Chicken: "contenttweaker:mithrillium_chicken"}), [<roost:chicken>.withTag({Chicken: "contenttweaker:mithrillium_chicken"})]);
 recipes.addShapeless("adaminite_chicken_clear", <roost:chicken>.withTag({Chicken: "contenttweaker:adaminite_chicken"}), [<roost:chicken>.withTag({Chicken: "contenttweaker:adaminite_chicken"})]);
 recipes.addShapeless("neutronium_chicken_clear", <roost:chicken>.withTag({Chicken: "contenttweaker:neutronium_chicken"}), [<roost:chicken>.withTag({Chicken: "contenttweaker:neutronium_chicken"})]);
+recipes.addShapeless("prosperity_chicken_clear", <roost:chicken>.withTag({Chicken: "contenttweaker:prosperity_chicken"}), [<roost:chicken>.withTag({Chicken: "contenttweaker:prosperity_chicken"})]);
+recipes.addShapeless("inferium_chicken_clear", <roost:chicken>.withTag({Chicken: "contenttweaker:inferium_chicken"}), [<roost:chicken>.withTag({Chicken: "contenttweaker:inferium_chicken"})]);
+recipes.addShapeless("prudentium_chicken_clear", <roost:chicken>.withTag({Chicken: "contenttweaker:prudentium_chicken"}), [<roost:chicken>.withTag({Chicken: "contenttweaker:prudentium_chicken"})]);
+recipes.addShapeless("intermedium_chicken_clear", <roost:chicken>.withTag({Chicken: "contenttweaker:intermedium_chicken"}), [<roost:chicken>.withTag({Chicken: "contenttweaker:intermedium_chicken"})]);
+recipes.addShapeless("superium_chicken_clear", <roost:chicken>.withTag({Chicken: "contenttweaker:superium_chicken"}), [<roost:chicken>.withTag({Chicken: "contenttweaker:superium_chicken"})]);
+recipes.addShapeless("supremium_chicken_clear", <roost:chicken>.withTag({Chicken: "contenttweaker:supremium_chicken"}), [<roost:chicken>.withTag({Chicken: "contenttweaker:supremium_chicken"})]);
+recipes.addShapeless("insanium_chicken_clear", <roost:chicken>.withTag({Chicken: "contenttweaker:insanium_chicken"}), [<roost:chicken>.withTag({Chicken: "contenttweaker:insanium_chicken"})]);
 
 //Octine
 mods.actuallyadditions.Empowerer.addRecipe(<roost:chicken>.withTag({Chicken: "contenttweaker:octine_chicken"}), <roost:chicken>.withTag({Chicken: "chickens:ironchicken"}), <thebetweenlands:octine_ingot>, <thebetweenlands:octine_ingot>, <thebetweenlands:octine_ingot>, <thebetweenlands:octine_ingot>, 500, 200, [0.3, 0.3, 0.0]);
@@ -161,4 +168,46 @@ mods.extendedcrafting.TableCrafting.addShaped(4, <roost:chicken>.withTag({Chicke
     [null, A, I, E, J, E, I, A, null],
     [null, null, A, A, A, A, A, null, null]]);
 
+//Prosperity
+mods.extendedcrafting.TableCrafting.addShaped(1, <roost:chicken>.withTag({Chicken: "contenttweaker:prosperity_chicken"}), [
+	[<mysticalagriculture:charm>, <mysticalagriculture:storage:5>, <mysticalagriculture:charm>],
+	[<mysticalagriculture:storage:5>, <roost:chicken>.withTag({Chicken: "minecraft:chicken"}), <mysticalagriculture:storage:5>],
+	[<mysticalagriculture:charm>, <mysticalagriculture:storage:5>, <mysticalagriculture:charm>]
+]);
+//Inferium
+mods.extendedcrafting.TableCrafting.addShaped(1, <roost:chicken>.withTag({Chicken: "contenttweaker:inferium_chicken"}), [
+	[<mysticalagriculture:crafting:50>, <roost:chicken>.withTag({Chicken: "contenttweaker:prosperity_chicken"}), <mysticalagriculture:crafting:50>],
+	[<roost:chicken>.withTag({Chicken: "contenttweaker:prosperity_chicken"}), <mysticalagriculture:storage>, <roost:chicken>.withTag({Chicken: "contenttweaker:prosperity_chicken"})],
+	[<mysticalagriculture:crafting:50>, <roost:chicken>.withTag({Chicken: "contenttweaker:prosperity_chicken"}), <mysticalagriculture:crafting:50>]
+]);
+//Prudentium
+mods.extendedcrafting.TableCrafting.addShaped(1, <roost:chicken>.withTag({Chicken: "contenttweaker:prudentium_chicken"}), [
+	[<mysticalagriculture:crafting:51>, <roost:chicken>.withTag({Chicken: "contenttweaker:inferium_chicken"}), <mysticalagriculture:crafting:51>],
+	[<roost:chicken>.withTag({Chicken: "contenttweaker:inferium_chicken"}), <botania:manaresource:2>, <roost:chicken>.withTag({Chicken: "contenttweaker:inferium_chicken"})],
+	[<mysticalagriculture:crafting:51>, <roost:chicken>.withTag({Chicken: "contenttweaker:inferium_chicken"}), <mysticalagriculture:crafting:51>]
+]);
+//Intermedium
+mods.extendedcrafting.TableCrafting.addShaped(1, <roost:chicken>.withTag({Chicken: "contenttweaker:intermedium_chicken"}), [
+	[<mysticalagriculture:crafting:52>, <roost:chicken>.withTag({Chicken: "contenttweaker:prudentium_chicken"}), <mysticalagriculture:crafting:52>],
+	[<roost:chicken>.withTag({Chicken: "contenttweaker:prudentium_chicken"}), <astralsorcery:itemshiftingstar>, <roost:chicken>.withTag({Chicken: "contenttweaker:prudentium_chicken"})],
+	[<mysticalagriculture:crafting:52>, <roost:chicken>.withTag({Chicken: "contenttweaker:prudentium_chicken"}), <mysticalagriculture:crafting:52>]
+]);
+//Superium
+mods.extendedcrafting.TableCrafting.addShaped(1, <roost:chicken>.withTag({Chicken: "contenttweaker:superium_chicken"}), [
+	[<mysticalagriculture:crafting:53>, <roost:chicken>.withTag({Chicken: "contenttweaker:intermedium_chicken"}), <mysticalagriculture:crafting:53>],
+	[<roost:chicken>.withTag({Chicken: "contenttweaker:intermedium_chicken"}), <bloodmagic:slate:4>, <roost:chicken>.withTag({Chicken: "contenttweaker:intermedium_chicken"})],
+	[<mysticalagriculture:crafting:53>, <roost:chicken>.withTag({Chicken: "contenttweaker:intermedium_chicken"}), <mysticalagriculture:crafting:53>]
+]);
+//Supremium
+mods.extendedcrafting.TableCrafting.addShaped(1, <roost:chicken>.withTag({Chicken: "contenttweaker:supremium_chicken"}), [
+	[<mysticalagriculture:crafting:54>, <roost:chicken>.withTag({Chicken: "contenttweaker:superium_chicken"}), <mysticalagriculture:crafting:54>],
+	[<roost:chicken>.withTag({Chicken: "contenttweaker:superium_chicken"}), <thaumcraft:mechanism_complex>, <roost:chicken>.withTag({Chicken: "contenttweaker:superium_chicken"})],
+	[<mysticalagriculture:crafting:54>, <roost:chicken>.withTag({Chicken: "contenttweaker:superium_chicken"}), <mysticalagriculture:crafting:54>]
+]);
+//Insanium
+mods.extendedcrafting.TableCrafting.addShaped(1, <roost:chicken>.withTag({Chicken: "contenttweaker:insanium_chicken"}), [
+	[<mysticalagriculture:master_infusion_crystal>, <roost:chicken>.withTag({Chicken: "contenttweaker:supremium_chicken"}), <mysticalagriculture:master_infusion_crystal>],
+	[<roost:chicken>.withTag({Chicken: "contenttweaker:supremium_chicken"}), <draconicevolution:chaotic_core>, <roost:chicken>.withTag({Chicken: "contenttweaker:supremium_chicken"})],
+	[<mysticalagriculture:master_infusion_crystal>, <roost:chicken>.withTag({Chicken: "contenttweaker:supremium_chicken"}), <mysticalagriculture:master_infusion_crystal>]
+]);
 print("--- chicken.zs initialized ---");	

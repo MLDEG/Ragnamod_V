@@ -14,3 +14,7 @@ coin_ragnamod.maxStackSize = 64;
 coin_ragnamod.rarity = "epic";
 coin_ragnamod.glowing = true;
 coin_ragnamod.register();
+
+var ragnamod_logo = VanillaFactory.createItem("ragnamod_logo");
+ragnamod_logo.maxStackSize = 1;
+ragnamod_logo.register();

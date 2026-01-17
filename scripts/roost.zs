@@ -6,6 +6,48 @@ import mods.contenttweaker.Chicken;
 import mods.contenttweaker.Color;
 import mods.contenttweaker.ResourceLocation;
 
+//Prosperity Chicken
+val Prosperity = ChickenFactory.createChicken("prosperity_chicken", Color.fromInt(0xaacece), <item:mysticalagriculture:crafting:5>);
+Prosperity.setForegroundColor(Color.fromInt(0xaacece));
+Prosperity.setSpawnType("NONE");
+Prosperity.register();
+
+//Inferium Chicken
+val Inferium = ChickenFactory.createChicken("inferium_chicken", Color.fromInt(0x748e00), <item:mysticalagriculture:crafting>);
+Inferium.setForegroundColor(Color.fromInt(0x748e00));
+Inferium.setSpawnType("NONE");
+Inferium.register();
+
+//Prudentium Chicken
+val Prudentium = ChickenFactory.createChicken("prudentium_chicken", Color.fromInt(0x008c23), <item:mysticalagriculture:crafting:1>);
+Prudentium.setForegroundColor(Color.fromInt(0x008c23));
+Prudentium.setSpawnType("NONE");
+Prudentium.register();
+
+//Intermedium Chicken
+val Intermedium = ChickenFactory.createChicken("intermedium_chicken", Color.fromInt(0xb74900), <item:mysticalagriculture:crafting:2>);
+Intermedium.setForegroundColor(Color.fromInt(0xb74900));
+Intermedium.setSpawnType("NONE");
+Intermedium.register();
+
+//Superium Chicken
+val Superium = ChickenFactory.createChicken("superium_chicken", Color.fromInt(0x007fdb), <item:mysticalagriculture:crafting:3>);
+Superium.setForegroundColor(Color.fromInt(0x007fdb));
+Superium.setSpawnType("NONE");
+Superium.register();
+
+//Supremium Chicken
+val Supremium = ChickenFactory.createChicken("supremium_chicken", Color.fromInt(0xc40000), <item:mysticalagriculture:crafting:4>);
+Supremium.setForegroundColor(Color.fromInt(0xc40000));
+Supremium.setSpawnType("NONE");
+Supremium.register();
+
+//Insanium Chicken
+val Insanium = ChickenFactory.createChicken("insanium_chicken", Color.fromInt(0x5d008c), <item:mysticalagradditions:insanium>);
+Insanium.setForegroundColor(Color.fromInt(0x5d008c));
+Insanium.setSpawnType("NONE");
+Insanium.register();
+
 //IronWood Chicken
 val IronWood = ChickenFactory.createChicken("ironwood_chicken", Color.fromInt(0x83764a), <item:twilightforest:ironwood_ingot>);
 IronWood.setForegroundColor(Color.fromInt(0x83764a));
