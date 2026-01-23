@@ -199,22 +199,6 @@
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
 		<input>
-			<oreDict>oreLead</oreDict>
-		</input>
-		<output>
-			<itemStack>ic2:dust 2 10</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="0" power ="0">
-		<input>
-			<oreDict>oreLithium</oreDict>
-		</input>
-		<output>
-			<itemStack>ic2:dust 2 11</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="0" power ="0">
-		<input>
 			<oreDict>oreMagnesium</oreDict>
 		</input>
 		<output>
@@ -251,14 +235,6 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:material 2 70</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="0" power ="0">
-		<input>
-			<oreDict>oreSilver</oreDict>
-		</input>
-		<output>
-			<itemStack>ic2:dust 2 14</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">

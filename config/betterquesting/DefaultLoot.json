@@ -838,10 +838,10 @@
           "ID:3": 46,
           "items:9": {
             "0:10": {
-              "id:8": "ic2:crafting",
-              "Count:3": 64,
+              "id:8": "forestry:worktable",
+              "Count:3": 1,
               "OreDict:8": "",
-              "Damage:3": 23
+              "Damage:3": 0
             }
           }
         },

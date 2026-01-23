@@ -32,7 +32,7 @@ Use the Horologium Ritual to speed up something.
 Get a PERFECT Attuned Celestial Crystal (900 Size, 100% Purity, 100% Cutting).
 Automate the production of the 5 different Will Crystals using only Blood Magic.
 Create a Draconic Evolution portal in every possible dimension (excluding RFTools Dim and Compact Machine) and connect them to your base, so you can access every dimension from your base.
-Collect all the armors in the pack, except those from Construct's Armory, and display them on Armor Stands.
+Collect all the armors in the pack, except those from Construct's Armory ans Silent's Gems, and display them on Armor Stands.
 Fill the Draconic Tier 8 Energy Core, you definitely can do it with Creative stuff.
 Share a screenshot of your completed base on Discord, either on the Ragnamod Community or on MLDEG's Discord.
 ===

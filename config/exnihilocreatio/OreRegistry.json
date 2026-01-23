@@ -51,12 +51,12 @@
     "name": "tungsten",
     "color": "1c1c1c",
     "result": "techreborn:ingot:15",
-    "dust": "techreborn:dust:55"    
+    "dust": "techreborn:dust:55"
   },
   {
     "name": "uranium",
     "color": "4e5b43",
-    "result": "ic2:ingot:8",
+    "result": "immersiveengineering:metal:5",
     "dust": "immersiveengineering:metal:14"
   },
   {
@@ -99,7 +99,7 @@
     "name": "lithium",
     "color": "727272",
     "result": "nuclearcraft:ingot:6",
-    "dust": "ic2:dust:11"
+    "dust": "nuclearcraft:dust:6"
   },
   {
     "name": "magnesium",
@@ -124,5 +124,5 @@
     "color": "9FA751",
     "result": "bigreactors:ingotyellorium",
     "dust": "bigreactors:dustyellorium"
-  }  
+  }
 ]

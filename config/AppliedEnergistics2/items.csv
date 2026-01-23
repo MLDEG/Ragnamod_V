@@ -6205,8 +6205,6 @@ nuclearcraft:depleted_fuel_californium:4, Depleted LECf-251 Fuel
 nuclearcraft:depleted_fuel_californium:5, Depleted LECf-251 Oxide Fuel
 nuclearcraft:depleted_fuel_californium:6, Depleted HECf-251 Fuel
 nuclearcraft:depleted_fuel_californium:7, Depleted HECf-251 Oxide Fuel
-nuclearcraft:depleted_fuel_ic2:0, Depleted Uranium Nuclear Fuel
-nuclearcraft:depleted_fuel_ic2:1, Depleted MOX Nuclear Fuel
 nuclearcraft:boron:0, Boron-10
 nuclearcraft:boron:1, Tiny Clump of Boron-10
 nuclearcraft:boron:2, Boron-11
@@ -35192,16 +35190,6 @@ xnet:wireless_router, Wireless Router
 xnet:antenna, Antenna
 xnet:antenna_base, Antenna Base
 xnet:antenna_dish, Antenna Dish
-industrialwires:ic2_connector:0, Tin Wire Connector
-industrialwires:ic2_connector:1, Tin Wire Relay
-industrialwires:ic2_connector:2, Copper Wire Connector
-industrialwires:ic2_connector:3, Copper Wire Relay
-industrialwires:ic2_connector:4, Gold Wire Connector
-industrialwires:ic2_connector:5, Gold Wire Relay
-industrialwires:ic2_connector:6, Universal HV Wire Connector
-industrialwires:ic2_connector:7, Universal HV Wire Relay
-industrialwires:ic2_connector:8, Glass Fiber Wire Connector
-industrialwires:ic2_connector:9, Glass Fiber Wire Relay
 industrialwires:jacobs_ladder:0, Small Jacob's ladder
 industrialwires:jacobs_ladder:1, Jacob's ladder
 industrialwires:jacobs_ladder:2, Huge Jacob's ladder
@@ -35212,14 +35200,6 @@ industrialwires:control_panel:3, Control Panel Creator
 industrialwires:control_panel:4, Unfinished Control Panel
 industrialwires:control_panel:6, Redstone Controller: Others
 industrialwires:general_hv:0, Discharge Energy Meter
-industrialwires:ic2_wire_coil:0, Tin Wire Coil
-industrialwires:ic2_wire_coil:1, Copper Wire Coil
-industrialwires:ic2_wire_coil:2, Gold Wire Coil
-industrialwires:ic2_wire_coil:3, IC2 HV Wire Coil
-industrialwires:ic2_wire_coil:4, Glass Fiber Wire Coil
-industrialwires:ic2_wire_coil:5, Insulated Tin Wire Coil
-industrialwires:ic2_wire_coil:6, Insulated Copper Wire Coil
-industrialwires:ic2_wire_coil:7, Insulated Gold Wire Coil
 industrialwires:panel_component:0, Lighted Button
 industrialwires:panel_component:1, Label
 industrialwires:panel_component:2, Indicator Light
