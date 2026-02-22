@@ -6,5 +6,10 @@ recipes.addShaped("Iron Frame", <advgenerators:iron_frame>,
 	[[<minecraft:iron_ingot>, null, <minecraft:iron_ingot>],
 	[null, null, null],
 	[<minecraft:iron_ingot>, null, <minecraft:iron_ingot>]]);
+	
+recipes.addShaped("Advanced Pressure Valve", <advgenerators:advanced_pressure_valve>,
+	[[null, <thermalfoundation:material:167>, null],
+	[<advgenerators:iron_tubing>, <advgenerators:iron_tubing>, <advgenerators:iron_tubing>],
+	[null, <thermalfoundation:material:167>, null]]);
 
 print("--- advgenerators.zs initialized ---");

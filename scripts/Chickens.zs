@@ -1,6 +1,13 @@
 import mods.appliedenergistics2.Inscriber;
 print("--- loading chicken.zs ---");
 
+//Roost Collector
+recipes.removeByRecipeName("roost:collector");
+recipes.addShaped("Roost Collector 2", <roost:collector>,
+	[[<ore:plankWood>, <roost:chicken>.withTag({Chicken: "minecraft:chicken"}), <ore:plankWood>],
+	[<ore:plankWood>, <minecraft:hopper>, <ore:plankWood>],
+	[<ore:plankWood>, <ore:chest>, <ore:plankWood>]]);
+
 //Sand Chicken
 recipes.addShaped("Sand Chicken Egg", <chickens:spawn_egg>.withTag({ChickenType:{id:"chickens:sandchicken"}}),
 	[[<minecraft:sand:0>, <minecraft:sand:0>, <minecraft:sand:0>],

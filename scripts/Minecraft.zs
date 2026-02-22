@@ -46,4 +46,7 @@ recipes.addShapeless("Aluminum Ingot x1", <thermalfoundation:material:132>, [<ex
 //Task Book
 recipes.removeByRecipeName("checklist:task_book");
 
+//Add Fuel
+furnace.setFuel(<chickens:liquid_egg:1>, 20000);
+
 print("--- Minecraft.zs initialized ---");	
