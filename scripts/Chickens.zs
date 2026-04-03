@@ -217,4 +217,38 @@ mods.extendedcrafting.TableCrafting.addShaped(1, <roost:chicken>.withTag({Chicke
 	[<roost:chicken>.withTag({Chicken: "contenttweaker:supremium_chicken"}), <draconicevolution:chaotic_core>, <roost:chicken>.withTag({Chicken: "contenttweaker:supremium_chicken"})],
 	[<mysticalagriculture:master_infusion_crystal>, <roost:chicken>.withTag({Chicken: "contenttweaker:supremium_chicken"}), <mysticalagriculture:master_infusion_crystal>]
 ]);
+//Colored Eggs
+recipes.removeByRecipeName("chickens:blackchicken_egg");
+recipes.addShapeless("Black Chicken Egg", <chickens:colored_egg:0>, [<minecraft:egg>,<ore:dyeBlack>]);
+recipes.removeByRecipeName("chickens:redchicken_egg");
+recipes.addShapeless("Red Chicken Egg", <chickens:colored_egg:1>, [<minecraft:egg>,<ore:dyeRed>]);
+recipes.removeByRecipeName("chickens:orangechicken_egg");
+recipes.addShapeless("Orange Chicken Egg", <chickens:colored_egg:14>, [<minecraft:egg>,<ore:dyeOrange>]);
+recipes.removeByRecipeName("chickens:yellowchicken_egg");
+recipes.addShapeless("Yellow Chicken Egg", <chickens:colored_egg:11>, [<minecraft:egg>,<ore:dyeYellow>]);
+recipes.removeByRecipeName("chickens:limechicken_egg");
+recipes.addShapeless("Lime Chicken Egg", <chickens:colored_egg:10>, [<minecraft:egg>,<ore:dyeLime>]);
+recipes.removeByRecipeName("chickens:greenchicken_egg");
+recipes.addShapeless("Green Chicken Egg", <chickens:colored_egg:2>, [<minecraft:egg>,<ore:dyeGreen>]);
+recipes.removeByRecipeName("chickens:cyanchicken_egg");
+recipes.addShapeless("Cyan Chicken Egg", <chickens:colored_egg:6>, [<minecraft:egg>,<ore:dyeCyan>]);
+recipes.removeByRecipeName("chickens:lightbluechicken_egg");
+recipes.addShapeless("LightBlue Chicken Egg", <chickens:colored_egg:12>, [<minecraft:egg>,<ore:dyeLightBlue>]);
+recipes.removeByRecipeName("chickens:bluechicken_egg");
+recipes.addShapeless("Blue Chicken Egg", <chickens:colored_egg:4>, [<minecraft:egg>,<ore:dyeBlue>]);
+recipes.removeByRecipeName("chickens:purplechicken_egg");
+recipes.addShapeless("Purple Chicken Egg", <chickens:colored_egg:5>, [<minecraft:egg>,<ore:dyePurple>]);
+recipes.removeByRecipeName("chickens:magentachicken_egg");
+recipes.addShapeless("Magenta Chicken Egg", <chickens:colored_egg:13>, [<minecraft:egg>,<ore:dyeMagenta>]);
+recipes.removeByRecipeName("chickens:pinkchicken_egg");
+recipes.addShapeless("Pink Chicken Egg", <chickens:colored_egg:9>, [<minecraft:egg>,<ore:dyePink>]);
+recipes.removeByRecipeName("chickens:brownchicken_egg");
+recipes.addShapeless("Brown Chicken Egg", <chickens:colored_egg:3>, [<minecraft:egg>,<ore:dyeBrown>]);
+recipes.removeByRecipeName("chickens:graychicken_egg");
+recipes.addShapeless("Gray Chicken Egg", <chickens:colored_egg:8>, [<minecraft:egg>,<ore:dyeGray>]);
+recipes.removeByRecipeName("chickens:silverdyechicken_egg");
+recipes.addShapeless("LightGray Chicken Egg", <chickens:colored_egg:7>, [<minecraft:egg>,<ore:dyeLightGray>]);
+recipes.removeByRecipeName("chickens:whitechicken_egg");
+recipes.addShapeless("White Chicken Egg", <chickens:colored_egg:15>, [<minecraft:egg>,<ore:dyeWhite>]);
+
 print("--- chicken.zs initialized ---");	

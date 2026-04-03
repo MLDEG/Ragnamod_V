@@ -313,5 +313,16 @@ mods.extendedcrafting.TableCrafting.addShaped(1, <harvestcraft:papaya_sapling>, 
 	[null, <minecraft:sapling:3>, null],
 	[<mysticalagriculture:wood_essence>, null, <mysticalagriculture:wood_essence>]
 ]);
+//Trap
+recipes.removeByRecipeName("harvestcraft:groundtrap");
+recipes.addShaped("Ground Trap", <harvestcraft:groundtrap>,
+	[[<ore:stickWood>, <ore:trapdoorWood>, <ore:stickWood>],
+	[<minecraft:string>, <ore:chestWood>, <minecraft:string>],
+	[<ore:stickWood>, <minecraft:string>, <ore:stickWood>]]);
+recipes.removeByRecipeName("harvestcraft:watertrap");
+recipes.addShaped("Water Trap", <harvestcraft:watertrap>,
+	[[<ore:stickWood>, <minecraft:fishing_rod>, <ore:stickWood>],
+	[<minecraft:string>, <ore:chestWood>, <minecraft:string>],
+	[<ore:stickWood>, <minecraft:string>, <ore:stickWood>]]);
 
 print("--- Harvestcraft.zs initialized ---");
