@@ -46,4 +46,8 @@ recipes.addShaped("Purple Slime Sapling", <tconstruct:slime_sapling:1>, [
 
 mods.tconstruct.Melting.removeRecipe(<liquid:yellorium>);
 
+//Libvulpe ore into molten
+mods.tconstruct.Melting.addRecipe(<liquid:copper> * 288,<libvulpes:ore0:4>);
+mods.tconstruct.Melting.addRecipe(<liquid:tin> * 288,<libvulpes:ore0:5>);
+
 print("--- tconstruct.zs initialized ---");	
