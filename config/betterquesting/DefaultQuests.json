@@ -13791,7 +13791,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Fiery Chicken",
-          "desc:8": "You have to craft this chicken with an Iron Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Iron Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -87798,7 +87798,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Compressed Iron Chicken",
-          "desc:8": "You have to craft this chicken with an Iron Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Iron Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -90164,7 +90164,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Starmetal Chicken",
-          "desc:8": "You have to craft this chicken with an Iron Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Iron Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -90245,7 +90245,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Octine Chicken",
-          "desc:8": "You have to craft this chicken with an Iron Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Iron Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -100136,7 +100136,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Syrmorite Chicken",
-          "desc:8": "You have to craft this chicken with an Iron Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Iron Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -100217,7 +100217,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Ironwood Chicken",
-          "desc:8": "You have to craft this chicken with an Iron Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Iron Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -100297,7 +100297,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Alumite Chicken",
-          "desc:8": "You have to craft this chicken with an Iron Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Iron Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -100378,7 +100378,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Thaumium Chicken",
-          "desc:8": "You have to craft this chicken with an Iron Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Iron Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -100459,7 +100459,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Steeleaf Chicken",
-          "desc:8": "You have to craft this chicken with a Steel Chicken.\n"
+          "desc:8": "You have to craft this chicken with a Steel Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -100540,7 +100540,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Knightmetal Chicken",
-          "desc:8": "You have to craft this chicken with a Steeleaf Chicken.\n"
+          "desc:8": "You have to craft this chicken with a Steeleaf Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -100621,7 +100621,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Ichorium Chicken",
-          "desc:8": "You have to craft this chicken with a Thaumium Chicken.\n"
+          "desc:8": "You have to craft this chicken with a Thaumium Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -100702,7 +100702,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Void Chicken",
-          "desc:8": "You have to craft this chicken with a Thaumium Chicken.\n"
+          "desc:8": "You have to craft this chicken with a Thaumium Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -100783,7 +100783,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Refined Obsidian Chicken",
-          "desc:8": "You have to craft this chicken with an Osmium Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Osmium Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -100864,7 +100864,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Refined Glowstone Chicken",
-          "desc:8": "You have to craft this chicken with an Osmium Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Osmium Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -100946,7 +100946,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Osgloglas Chicken",
-          "desc:8": "You have to craft this chicken with an Osmium, a Refined Obsidian, and a Refined Glowstone Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Osmium, a Refined Obsidian, and a Refined Glowstone Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -101026,7 +101026,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Osmiridium Chicken",
-          "desc:8": "You have to craft this chicken with an Osmium Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Osmium Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -101107,7 +101107,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Refined Coralium Chicken",
-          "desc:8": "You have to craft this chicken with a Diamond Chicken.\n"
+          "desc:8": "You have to craft this chicken with a Diamond Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -101188,7 +101188,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Abyssalnite Chicken",
-          "desc:8": "You have to craft this chicken with a Refined Coralium Chicken.\n"
+          "desc:8": "You have to craft this chicken with a Refined Coralium Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -101269,7 +101269,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Dreadium Chicken",
-          "desc:8": "You have to craft this chicken with an Abyssalnite Chicken.\n"
+          "desc:8": "You have to craft this chicken with an Abyssalnite Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -151428,7 +151428,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Mirion Chicken",
-          "desc:8": "You have to craft this chicken with a Glass Chicken.\n"
+          "desc:8": "You have to craft this chicken with a Glass Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -151775,7 +151775,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Mithrillium Chicken",
-          "desc:8": "You have to craft this chicken with a Void Chicken.\n"
+          "desc:8": "You have to craft this chicken with a Void Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -154687,7 +154687,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Adaminite Chicken",
-          "desc:8": "You have to craft this chicken with a Mithrillium Chicken.\n"
+          "desc:8": "You have to craft this chicken with a Mithrillium Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -154769,7 +154769,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Mithminite Chicken",
-          "desc:8": "You have to craft this chicken with a Mithrillium and an Adaminite Chicken.\n"
+          "desc:8": "You have to craft this chicken with a Mithrillium and an Adaminite Chicken.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -154850,7 +154850,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Neutronium Chicken",
-          "desc:8": "You have to craft this chicken with a Chicken and some Neutronium Crux."
+          "desc:8": "You have to craft this chicken with a Chicken and some Neutronium Crux.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -154934,7 +154934,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Infinity Chicken",
-          "desc:8": "You have to craft this chicken with a Neutronium Chicken and some Infinity stuff."
+          "desc:8": "You have to craft this chicken with a Neutronium Chicken and some Infinity stuff.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -155015,7 +155015,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Inferium Chicken",
-          "desc:8": "You have to craft this chicken with 4 Prosperity Chicken, 4 Inferium Fertilization Core and a Block of Inferium Essence."
+          "desc:8": "You have to craft this chicken with 4 Prosperity Chicken, 4 Inferium Fertilization Core and a Block of Inferium Essence.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -155097,7 +155097,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Intermedium Chicken",
-          "desc:8": "You have to craft this chicken with 4 Prudentium Chicken, 4 Intermedium Fertilization Core and a Shifting Star."
+          "desc:8": "You have to craft this chicken with 4 Prudentium Chicken, 4 Intermedium Fertilization Core and a Shifting Star.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -155179,7 +155179,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Supremium Chicken",
-          "desc:8": "You have to craft this chicken with 4 Superium Chicken, 4 Supremium Fertilization Core and a Complex Arcane Mechanism."
+          "desc:8": "You have to craft this chicken with 4 Superium Chicken, 4 Supremium Fertilization Core and a Complex Arcane Mechanism.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -155261,7 +155261,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Prudentium Chicken",
-          "desc:8": "You have to craft this chicken with 4 Inferium Chicken, 4 Prudentium Fertilization Core and a Mana Diamond."
+          "desc:8": "You have to craft this chicken with 4 Inferium Chicken, 4 Prudentium Fertilization Core and a Mana Diamond.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -155343,7 +155343,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Superium Chicken",
-          "desc:8": "You have to craft this chicken with 4 Intermedium Chicken, 4 Superium Fertilization Core and an Ethereal Slate."
+          "desc:8": "You have to craft this chicken with 4 Intermedium Chicken, 4 Superium Fertilization Core and an Ethereal Slate.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -155425,7 +155425,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Insanium Chicken",
-          "desc:8": "You have to craft this chicken with 4 Supremium Chicken, 4 Master Infusion Crystal and a Chaotic Core."
+          "desc:8": "You have to craft this chicken with 4 Supremium Chicken, 4 Master Infusion Crystal and a Chaotic Core.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
@@ -155505,7 +155505,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Prosperity Chicken",
-          "desc:8": "You have to craft this chicken with a Chicken and Prosperity."
+          "desc:8": "You have to craft this chicken with a Chicken and Prosperity.\n\nYou must reset your chicken in your crafting table before using it."
         }
       },
       "tasks:9": {
