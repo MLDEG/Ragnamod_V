@@ -71090,14 +71090,14 @@
           "partialMatch:1": 1,
           "autoConsume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "consume:1": 0,
           "requiredItems:9": {
             "0:10": {
               "id:8": "aether_legacy:ambrosium_ore",
               "Count:3": 32,
-              "Damage:2": 0,
+              "Damage:2": 1,
               "OreDict:8": ""
             }
           },
