@@ -94442,7 +94442,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Demon Ingot",
-          "desc:8": "To get Demaon Metal you have to place 4 blocks of nether brick around a lava source and throw your gold ingot inside.\n§oNether Brick Stairs or Nether Brick Fences can be used instead of Nether Brick.§o§r\n\nNote that this ritual only works on ingots and will not create Blocks of Demon Metal."
+          "desc:8": "To get Demon Metal you have to place 4 blocks of nether brick around a lava source and throw your gold ingot inside.\n§oNether Brick Stairs or Nether Brick Fences can be used instead of Nether Brick.§o§r\n\nNote that this ritual only works on ingots and will not create Blocks of Demon Metal."
         }
       },
       "tasks:9": {
@@ -95262,7 +95262,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "Magical Snow Globe",
-          "desc:8": "he Magical Snow Globe is used to create the Quantum Quarry.\nOnce crafted, the globe will need to be activated before it can be used in crafting. To activate the Snow Globe, you must visit one of the 7 biomes listed in the Snow Globe\u0027s description, with the globe in their inventory."
+          "desc:8": "The Magical Snow Globe is used to create the Quantum Quarry.\nOnce crafted, the globe will need to be activated before it can be used in crafting. To activate the Snow Globe, you must visit one of the 7 biomes listed in the Snow Globe\u0027s description, with the globe in their inventory."
         }
       },
       "tasks:9": {
@@ -113504,7 +113504,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "ME Controller",
-          "desc:8": "The ME Controller is the centerpiece of your applied system. You\u0027ll need it if you don\u0027t want to get stuck at 8 channels.\nThis gives you the possibility to have 32 channels on each side of a ME Controller.\nYou have to provide it with energy to make it work.\n\nIn your applied system you cannot have two separate ME Controllers, you must have them side by side.\nMoreover, the maximum size of an applied network is 7 blocks long, so you can, if you want, with a 7x7x7 cube for getting the maximum size of a ME Controller network.\n\nIf your ME Controller shines in all colors, it\u0027s OK, if it\u0027s gray, it have enough energy to operate. If it turns red, it means that you haven\u0027t respected the maximum size rule or that you have two or more ME Controllers that are not together."
+          "desc:8": "The ME Controller is the centerpiece of your applied system. You\u0027ll need it if you don\u0027t want to get stuck at 8 channels.\nThis gives you the possibility to have 32 channels on each side of a ME Controller.\nYou have to provide it with energy to make it work.\n\nIn your applied system you cannot have two separate ME Controllers, you must have them side by side.\nMoreover, the maximum size of an applied network is 7 blocks long, so you can, if you want, with a 7x7x7 cube for getting the maximum size of a ME Controller network.\n\nIf your ME Controller shines in all colors, it\u0027s OK, if it\u0027s gray, it doesn\u0027t have enough energy to operate. If it turns red, it means that you haven\u0027t respected the maximum size rule or that you have two or more ME Controllers that are not together."
         }
       },
       "tasks:9": {
@@ -113806,7 +113806,7 @@
           "ismain:1": 0,
           "repeat_relative:1": 1,
           "name:8": "ME Interface",
-          "desc:8": "The ME Interface acts as an in between when working with pipes, tubes, networks, or machines from other mods.\n\nYou can configure certain items to be exported from the ME Network into the ME Interface for use with other mods. Or use other mods to insert into any ME Interface. as long as it isn\u0027t full of exported materials it will add any added items into the ME Network.\n\nThe interface normally functions like a chest, however with one exception, if you place a storage bus on an interface, you essentially include the entire network instead, this allows networks to share huge sets of contents and to be chained together in a very effective manner. In addition to this mode, if you you configure your interface to explicilty provide specific materials, the storage bus will behave as if the interface was a standard chest, disabling this advanced feature."
+          "desc:8": "The ME Interface acts as an in between when working with pipes, tubes, networks, or machines from other mods.\n\nYou can configure certain items to be exported from the ME Network into the ME Interface for use with other mods. Or use other mods to insert into any ME Interface. as long as it isn\u0027t full of exported materials it will add any added items into the ME Network.\n\nThe interface normally functions like a chest, however with one exception, if you place a storage bus on an interface, you essentially include the entire network instead, this allows networks to share huge sets of contents and to be chained together in a very effective manner. In addition to this mode, if you configure your interface to explicilty provide specific materials, the storage bus will behave as if the interface was a standard chest, disabling this advanced feature."
         }
       },
       "tasks:9": {
